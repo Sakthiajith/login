@@ -147,6 +147,7 @@ body {
   .sign-up-btn {
     color: blueviolet;
     cursor: pointer;
+    text-decoration: none;
   }
   @media screen and (max-width: 680px) {
     .sign-wrapper {
